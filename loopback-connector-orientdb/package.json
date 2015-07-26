@@ -1,0 +1,10 @@
+{
+  "name": "loopback-connector-orientdb",
+  "version": "0.0.0",
+  "description": "loopback-connector-orientdb",
+  "main": "app.js",
+  "author": {
+    "name": "Luke",
+    "email": "luke.vinton@datalytyx.com"
+  }
+}
