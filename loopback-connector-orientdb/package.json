@@ -1,10 +1,14 @@
 {
   "name": "loopback-connector-orientdb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "loopback-connector-orientdb",
-  "main": "app.js",
+  "main": "connector.js",
   "author": {
     "name": "Luke",
     "email": "luke.vinton@datalytyx.com"
+  },
+  "dependencies": {
+    "loopback-connector": "^2.2.2",
+    "node-graph-service": "git@github.com:datalytyx/node-graph-service.git#master"
   }
 }
